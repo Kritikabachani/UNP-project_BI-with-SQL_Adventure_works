@@ -6,13 +6,12 @@ The project was completed in three stages:
 Step - 1 Creating an Adventure Works database.
 
 Create the tables with the columns mentioned.
-
 Put the constraints (primary key, foreign key etc) in the columns.
 
 
 Step -2  Insert the data into the tables
 
-Step 3: Write the SQL queries
+Step - 3 Write the SQL queries
 
 1.Total Revenue by Product Category
 
@@ -36,8 +35,4 @@ Step 3: Write the SQL queries
 
 
 SQL File Link: https://drive.google.com/file/d/1VDTPfWo2NSZOiyL-iOSMzzZO6xdUstwQ/view?usp=sharing
-PDF Link: 
-
-
-
-Step - 2 
+PDF Link: https://drive.google.com/file/d/1XL_3v3joJsV1zkS-BxMCZ_KdG4QuqzT6/view?usp=sharing
